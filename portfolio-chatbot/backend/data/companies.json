@@ -1,0 +1,119 @@
+{
+  "companies": {
+    "네이버": {
+      "company_info": {
+        "name": "네이버",
+        "industry": "IT/인터넷",
+        "size": "대기업",
+        "website": "https://www.navercorp.com",
+        "description": "국내 최대 검색 포털 및 IT 서비스 기업"
+      },
+      "culture": {
+        "values": ["도전", "협력", "신뢰"],
+        "work_style": "수평적 조직문화, 자율적 업무 환경",
+        "benefits": ["유연근무제", "교육비 지원", "건강검진", "휴가비 지원"]
+      },
+      "tech_stack": {
+        "backend": ["Java", "Spring", "Python", "Go", "Kotlin"],
+        "frontend": ["React", "Vue.js", "TypeScript"],
+        "database": ["MySQL", "Redis", "MongoDB"],
+        "infrastructure": ["Kubernetes", "Docker", "AWS", "Naver Cloud Platform"]
+      },
+      "hiring_focus": [
+        "문제 해결 능력",
+        "기술적 깊이",
+        "커뮤니케이션 스킬",
+        "성장 마인드셋"
+      ],
+      "interview_style": "기술 면접 + 컬쳐 핏 면접"
+    },
+    "카카오": {
+      "company_info": {
+        "name": "카카오",
+        "industry": "IT/인터넷",
+        "size": "대기업",
+        "website": "https://www.kakaocorp.com",
+        "description": "모바일 메신저 기반 플랫폼 기업"
+      },
+      "culture": {
+        "values": ["자유", "공감", "신뢰"],
+        "work_style": "수평적 문화, 창의적 사고 중시",
+        "benefits": ["재택근무", "자기계발비", "점심/저녁 제공", "휴가 자유 사용"]
+      },
+      "tech_stack": {
+        "backend": ["Java", "Kotlin", "Python", "Go"],
+        "frontend": ["React", "Vue.js", "Angular"],
+        "database": ["MySQL", "MongoDB", "Redis"],
+        "infrastructure": ["Kubernetes", "Docker", "Kafka", "Kakao Cloud"]
+      },
+      "hiring_focus": [
+        "사용자 경험에 대한 이해",
+        "빠른 실행력",
+        "팀워크",
+        "혁신적 사고"
+      ],
+      "interview_style": "실무 중심 기술 면접"
+    },
+    "쿠팡": {
+      "company_info": {
+        "name": "쿠팡",
+        "industry": "이커머스/물류",
+        "size": "대기업",
+        "website": "https://www.coupang.com",
+        "description": "고객 만족을 최우선으로 하는 이커머스 플랫폼"
+      },
+      "culture": {
+        "values": ["고객 중심", "오너십", "혁신"],
+        "work_style": "결과 중심, 빠른 실행력 중시",
+        "benefits": ["경쟁력 있는 연봉", "스톡옵션", "건강보험", "교육 지원"]
+      },
+      "tech_stack": {
+        "backend": ["Java", "Python", "Scala", "Go"],
+        "frontend": ["React", "JavaScript", "TypeScript"],
+        "database": ["MySQL", "PostgreSQL", "DynamoDB"],
+        "infrastructure": ["AWS", "Kubernetes", "Docker", "Kafka"]
+      },
+      "hiring_focus": [
+        "높은 기준 유지",
+        "오너십 마인드",
+        "데이터 기반 의사결정",
+        "글로벌 스케일 경험"
+      ],
+      "interview_style": "리더십 원칙 기반 면접 + 기술 면접"
+    },
+    "토스": {
+      "company_info": {
+        "name": "토스",
+        "industry": "핀테크",
+        "size": "중견기업",
+        "website": "https://toss.im",
+        "description": "간편 송금을 넘어 종합 금융 플랫폼으로 확장"
+      },
+      "culture": {
+        "values": ["단순함", "투명함", "정직함"],
+        "work_style": "수평적 문화, 빠른 의사결정",
+        "benefits": ["높은 연봉", "스톡옵션", "자유로운 휴가", "최신 장비 지원"]
+      },
+      "tech_stack": {
+        "backend": ["Kotlin", "Java", "Python"],
+        "frontend": ["React", "TypeScript", "React Native"],
+        "database": ["MySQL", "Redis", "MongoDB"],
+        "infrastructure": ["AWS", "Kubernetes", "Docker"]
+      },
+      "hiring_focus": [
+        "빠른 학습 능력",
+        "제품에 대한 이해",
+        "사용자 경험 중시",
+        "협업 능력"
+      ],
+      "interview_style": "실무 과제 + 페어 프로그래밍"
+    }
+  },
+  "default_questions": [
+    "이 회사에 지원하는 이유가 무엇인가요?",
+    "우리 회사의 기술 스택에 대해 어떻게 생각하시나요?",
+    "이전 프로젝트에서 가장 어려웠던 점은 무엇인가요?",
+    "우리 팀에 어떻게 기여할 수 있을까요?",
+    "최근에 학습한 기술이 있나요?"
+  ]
+}

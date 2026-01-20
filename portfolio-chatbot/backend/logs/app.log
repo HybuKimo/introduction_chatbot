@@ -1,0 +1,40 @@
+2026-01-19 18:11:36,235 - INFO - Chat processed - Session: 9581bb71-b195-4254-a7f8-908ee414a958, Company: 카카오
+2026-01-19 18:12:38,166 - INFO - Chat processed - Session: 9581bb71-b195-4254-a7f8-908ee414a958, Company: None
+2026-01-20 15:08:18,703 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-6' coro=<Connection.run() done, defined at C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_connection.py:268> exception=NotImplementedError()>
+Traceback (most recent call last):
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_connection.py", line 275, in run
+    await self._transport.connect()
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_transport.py", line 135, in connect
+    raise exc
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_transport.py", line 123, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\asyncio\subprocess.py", line 218, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\asyncio\base_events.py", line 1681, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\asyncio\base_events.py", line 498, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2026-01-20 15:08:18,707 - ERROR - Failed to initialize browser: 
+2026-01-20 15:08:18,707 - ERROR - Job scraping failed: 'NoneType' object has no attribute 'new_page'
+2026-01-20 15:08:18,709 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-7' coro=<Connection.run() done, defined at C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_connection.py:268> exception=NotImplementedError()>
+Traceback (most recent call last):
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_connection.py", line 275, in run
+    await self._transport.connect()
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_transport.py", line 135, in connect
+    raise exc
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\site-packages\playwright\_impl\_transport.py", line 123, in connect
+    self._proc = await asyncio.create_subprocess_exec(
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\asyncio\subprocess.py", line 218, in create_subprocess_exec
+    transport, protocol = await loop.subprocess_exec(
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\asyncio\base_events.py", line 1681, in subprocess_exec
+    transport = await self._make_subprocess_transport(
+  File "C:\Users\junhe\anaconda3\envs\project_env\lib\asyncio\base_events.py", line 498, in _make_subprocess_transport
+    raise NotImplementedError
+NotImplementedError
+2026-01-20 15:08:18,710 - ERROR - Failed to initialize browser: 
+2026-01-20 15:08:18,710 - ERROR - Company culture scraping failed: 'NoneType' object has no attribute 'new_page'
+2026-01-20 15:08:18,711 - INFO - Agent processed - Session: 41d5dae4-206d-4279-963b-d050c8c020c9, Company: 네이버, Actions: 5
+2026-01-20 15:08:52,587 - INFO - Agent processed - Session: 41d5dae4-206d-4279-963b-d050c8c020c9, Company: None, Actions: 1
