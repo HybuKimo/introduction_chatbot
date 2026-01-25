@@ -1,6 +1,6 @@
 # 🏪 Junbot - 신준희 어시스턴트
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f36e9fa4-b970-4159-b7f6-6aae7c048a0b" width="500"/>
+  <img src="https://github.com/user-attachments/assets/f51c3c75-9841-4efd-8917-f19e22579dca" width="500"/>
   <img src="https://github.com/user-attachments/assets/b74e0185-f303-45f7-9e15-56c00e40596e" width="500"/>
 </p>
 
@@ -8,6 +8,11 @@
 ## 📆 프로젝트 기간
 
 - 2026년 1월 20일 ~ 진행 중
+
+## ☑️ 프로젝트 개요
+취준생 입장에서 다양한 기업, 직무를 항상 확인하고 원하는 역량에 맞춰 자기소개서를 작성해야한다. 매번 찾아서 검색하기 많은 스트레스와 시간을 보낸다.
+기업(HR팀) 입장에서 수많은 
+
 
 ## 🏗️ 마이크로서비스 아키텍처
 
